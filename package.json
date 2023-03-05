@@ -1,0 +1,7 @@
+{
+    "name": "fans-utils",
+    "version": "1.0.0",
+    "dependencies": {
+        "react-draggable": "^4.4.5"
+    }
+}
