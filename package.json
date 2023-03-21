@@ -1,7 +1,8 @@
 {
-    "name": "fans-utils",
+    "name": "fr-utils",
     "version": "1.0.0",
     "dependencies": {
-        "react-draggable": "^4.4.5"
+        "react-draggable": "^4.4.5",
+        "uuid": "^9.0.0"
     }
 }
